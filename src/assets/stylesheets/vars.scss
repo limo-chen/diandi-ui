@@ -1,0 +1,37 @@
+:root {
+  --theme-color-blue-1: #0081f9;
+  --theme-color-blue-2: #0064e0;
+  --theme-color-red: #ff585d;
+  --title-color-black: #1c2a33;
+  --text-color-black: #44475b;
+  --text-color-white: #ffffff;
+  --text-color-muted: #7c7e8c;
+  --subText-color-black: rgba(60 60 60 / 70%);
+  --bg-color-white: #ffffff;
+  --bg-color-grey: rgba(255, 255, 255, 0.7);
+  // --border-color: #e7e9e8;
+  --border-color: #d9d9d9;
+  --vp-button-brand: var(--theme-color-blue-1);
+  --vp-button-brand-hover: var(--theme-color-blue-2);
+  --vp-button-brand-text: var(--text-color-white);
+  --vp-button-alt: #f2f2f2;
+  --vp-button-alt-hover: #d1d1d1;
+  --vp-button-alt-text: var(--text-color-black);
+  --nav-height: 60px;
+  --z-index-sideMenu-mask: 1;
+  --z-index-sideMenu-menu: 2;
+  --sideMenu-mask-bg: rgba(0, 0, 0, 0.7);
+  --sideMenu-menu-bg: #fafafa;
+  --sideMenu-button-hover: #d8d8d8;
+  --sideMenu-button-active: var(--theme-color-blue-1);
+  --switch-box-width: 44px;
+  --switch-box-height: 22px;
+  --switch-box-radius: 11px;
+  --switch-circle-width: 18px;
+  --switch-circle-height: 18px;
+  --switch-circle-radius: 9px;
+  --switch-bg-color: #bfbfbf;
+  --switch-checked-color: var(--theme-color-blue-1);
+  --button-height: 34px;
+  --button-radius: 4px;
+}
